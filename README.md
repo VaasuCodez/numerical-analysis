@@ -1,2 +1,2 @@
 # numerical-analysis
-This repo has numerical analysis algorithms implemented in MATLAB explained using example problems.
+This repo has numerical analysis algorithms implemented in MATLAB/Octave explained using example problems.
